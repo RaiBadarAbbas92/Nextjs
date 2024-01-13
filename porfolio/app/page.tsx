@@ -49,6 +49,14 @@ function Portfolio() {
   </header>
      <section className="home-hero">
       <div className="home-hero__content">
+      <div className="img">
+          <img
+            src=".\assets\png\john-doe.png"
+            alt="Ram Maheshwari Logo Image"
+            className="header__logo-img"
+          />
+        </div>
+      
         <h1 className="heading-primary">Hey, My name is Badar Abbas</h1>
         <div className="home-hero__info">
           <p className="text-primary">
