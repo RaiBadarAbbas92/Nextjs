@@ -448,6 +448,16 @@ textarea {
     object-fit: cover;
     object-position: center;
     display: block; }
+.img{
+        
+          width: 20rem;
+    height: 30rem;
+    border-radius: 70px;
+    overflow: hidden;
+    margin-right: 2rem;
+    background: #0062b9;
+    position: relative
+        }
   .header__logo-sub {
     font-size: 1.8rem;
     text-transform: uppercase;
